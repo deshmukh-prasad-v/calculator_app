@@ -1,8 +1,10 @@
-package com.hsbc.simple_app;
+package com.hsbc.calculator_app;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
+
+import com.hsbc.calculator_app.App;
 
 public class AppTest {
 	@Test

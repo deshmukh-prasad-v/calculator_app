@@ -1,4 +1,4 @@
-package com.hsbc.simple_app;
+package com.hsbc.calculator_app;
 
 import java.io.BufferedReader;
 import java.io.IOException;
