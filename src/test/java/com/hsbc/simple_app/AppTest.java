@@ -17,6 +17,6 @@ public class AppTest {
 	@Test
 	public void testSubtract() {
 		App app=new App();
-		assertEquals(100,app.subtract(150, 250));
+		assertEquals(-100,app.subtract(150, 250));
 	}
 }
